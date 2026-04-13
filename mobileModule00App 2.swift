@@ -11,7 +11,7 @@ import SwiftUI
 struct mobileModule00App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ex00View()
         }
     }
 }
