@@ -2,8 +2,16 @@
 
 Screenshots are stored in the `Doc/` folder:
 
-![Calculator Screenshot 1](Doc/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-04-15%20at%2015.14.18.png)
-![Calculator Screenshot 2](Doc/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-04-15%20at%2015.15.06.png)
+<table>
+	<tr>
+		<td>
+			<img src="Doc/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-04-15%20at%2015.14.18.png" alt="Calculator Screenshot 1" width="260" />
+		</td>
+		<td>
+			<img src="Doc/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-04-15%20at%2015.15.06.png" alt="Calculator Screenshot 2" width="260" />
+		</td>
+	</tr>
+</table>
 
 You can also view them in [Doc/README.md](Doc/README.md).
 
