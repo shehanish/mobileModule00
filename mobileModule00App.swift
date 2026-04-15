@@ -12,7 +12,7 @@ struct mobileModule00App: App {
     var body: some Scene {
         WindowGroup {
             //ex00View()
-            ex01View()
+            CalculatorAppView()
         }
     }
 }

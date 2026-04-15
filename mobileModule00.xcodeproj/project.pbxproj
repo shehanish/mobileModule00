@@ -31,6 +31,11 @@
 			path = ex02;
 			sourceTree = "<group>";
 		};
+		0CEF8BA62F8E8F89008FC6C9 /* ex03 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ex03;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +52,7 @@
 		0C95AD402F8CF87300F6694F = {
 			isa = PBXGroup;
 			children = (
+				0CEF8BA62F8E8F89008FC6C9 /* ex03 */,
 				0CEF8B942F8D19A0008FC6C9 /* mobileModule00App.swift */,
 				0C95AD4B2F8CF87300F6694F /* ex00 */,
 				0CEF8B992F8D2C11008FC6C9 /* ex02 */,
@@ -82,6 +88,7 @@
 				0C95AD4B2F8CF87300F6694F /* ex00 */,
 				0CEF8B652F8D0625008FC6C9 /* ex01 */,
 				0CEF8B992F8D2C11008FC6C9 /* ex02 */,
+				0CEF8BA62F8E8F89008FC6C9 /* ex03 */,
 			);
 			name = mobileModule00;
 			packageProductDependencies = (
